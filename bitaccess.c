@@ -1,3 +1,8 @@
+/*
+ * Sec. 20.1
+ * Set, clear and teast single bit
+ */
+
 #include<stdio.h>
 #include"dec2bin2.h"
 
